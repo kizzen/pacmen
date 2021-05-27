@@ -16,7 +16,7 @@ Alternatively, just visit this link: https://kizzen.github.io/pacmen/
 
 - change background color
 - have the pacmen stop moving by left clicking the mouse
-- create the full pacman game (it’s more fun than this one)
+- recreate the full pacman game (it’s more fun than this one)
 
 #### License
 
